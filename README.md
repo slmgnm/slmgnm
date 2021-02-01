@@ -4,7 +4,7 @@
 ### _May I introduce myself_
 
 
-I am Salim, a passionate Junior Frontend Developer with longtime experience in UI/UX Design and Ecommerce, based in Hamburg. 
+I am Salim, a passionate Junior Frontend Developer, based in Finland. 
 
 Currently diving into the magical world of React.js
 
