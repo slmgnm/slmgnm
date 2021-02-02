@@ -10,23 +10,20 @@ Currently diving into the magical world of React.js
 
 ---
 
-
 ### _Tech Stack and Skills_
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
 | :-------------: |:-------------:| :---------:|
 | React.js  | SoftwareDevelopment  | Html5 |
-| Tailwind CSS      | Scrum / Kanban      |   CSS|
-| Vuetify / Bootstrap | UI/UX Design      |    JavaScript |
-| Rest API / GraphQL | Pair Programming      |   |
-| jQuery | CI/CD      |   |
-| Docker | Unit Testing      |   |
-| npm / yarn | eCommerce Software  (_Demandware / Salesforce eCommerce Cloud_)  |   |
-| Gitlab |   |   |
-| nuxt.js |    |   |
-|VS Code / IntelliJ / Eclipse |    |   |
-| Atlassian Jira / Confluence / Sourcetree |    |   |
-| |    | English / Finnish / Arabic    |
+| Bootstrap      | Scrum      |   CSS |
+| Node.js | UI/UX Design      |    JavaScript |
+|    Rest API / MySQL / MariaDB    |    Pair Programming      |   |
+| jQuery | Unit Testing      |   |
+| npm | Graphic Design      |   |
+| Git |   |   |
+| VS Code |    |   |
+| Wordpress |    |   |
+| |    |      English / Finnish / Arabic (_native_)      |
 
 <!--
 **slmgnm/slmgnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
