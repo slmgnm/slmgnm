@@ -1,12 +1,6 @@
 ### Hi there 👋
 ##  welcome to my profile_  &#9996; 
 
-### _May I introduce myself_
-
-
-I am Salim, a passionate Junior Frontend Developer, based in Finland. 
-
-Currently diving into the magical world of React.js
 
 ---
 
@@ -14,14 +8,14 @@ Currently diving into the magical world of React.js
 
 | Tools & Technologies        | Experience & Skills           | Languages      |
 | :-------------: |:-------------:| :---------:|
-| React.js  | SoftwareDevelopment  | Html5 |
-| Bootstrap      | Scrum      |   CSS |
-| Node.js | UI/UX Design      |    JavaScript |
+| React.js  | SoftwareDevelopment  | JavaScript |
+| Next.js      | Scrum      |   HubL |
+| Node.js | UI/UX Design      |     
 |    Rest API / MySQL / MariaDB    |    Pair Programming      |   |
-| jQuery | Unit Testing      |   |
+| Tailwind | Unit Testing      |   |
 | npm | Graphic Design      |   |
 | Git |   |   |
-| VS Code |    |   |
+| HubSpot |    |   |
 | Wordpress |    |   |
 | |    |      English / Finnish / Arabic (_native_)      |
 
